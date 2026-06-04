@@ -5,10 +5,8 @@
 ════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rhishvanth%20R%20V&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=55&rotate=-2" />
 
-<!-- Typing Animation — demolab is the correct, maintained host -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=640&lines=⚡+Embedded+Systems+%7C+IoT+%7C+ESP32;🐍+Python+%7C+Embedded+C;🔋+EV+Battery+Management+Systems;🤖+Arduino+%7C+Raspberry+Pi;🎓+SRMIST+ECE+%7C+CGPA+8.7+%2F+10" alt="Typing SVG" />
-</a>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=650&lines=Embedded+Systems+%7C+IoT+%7C+ESP32;Python+%7C+Embedded+C+Developer;EV+Battery+Management+Systems;Arduino+%7C+Raspberry+Pi+%7C+ESP32;SRMIST+ECE+%7C+CGPA+8.7+%2F+10;Aspiring+Embedded+Engineer+%F0%9F%94%A7" alt="Typing SVG" />
 
 <br/><br/>
 
