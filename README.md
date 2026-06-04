@@ -258,15 +258,6 @@ class Rhishvanth:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/rhishvanth-rv/rhishvanth-rv/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/rhishvanth-rv/rhishvanth-rv/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake"
-         src="https://raw.githubusercontent.com/rhishvanth-rv/rhishvanth-rv/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
