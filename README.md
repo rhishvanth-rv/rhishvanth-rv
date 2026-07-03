@@ -34,7 +34,7 @@ class Rhishvanth:
     college    = "SRM Institute of Science & Technology, Ramapuram"
     degree     = "B.Tech – Electronics & Communication Engineering"
     cgpa       = 8.7
-    year       = "2nd Year (2023–2027)"
+    year       = "Final Year (2023–2027)"
     location   = "Chennai, India 🇮🇳"
 
     focus      = ["Embedded Systems", "IoT", "EV Technology", "Industrial Automation"]
