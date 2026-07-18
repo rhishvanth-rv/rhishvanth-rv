@@ -211,15 +211,6 @@ class Rhishvanth:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhishvanth-rv&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rhishvanth-rv&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
 ---
 
 ## 🎖️ Certifications & Achievements
